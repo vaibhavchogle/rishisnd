@@ -7,12 +7,14 @@ def csv_loader(data, context):
         dataset_ref = client.dataset(dataset_id)
         job_config = bigquery.LoadJobConfig()
         job_config.schema = [
-                bigquery.SchemaField('id', 'INTEGER'),
-                bigquery.SchemaField('first_name', 'STRING'),
-                bigquery.SchemaField('last_name', 'STRING'),
-                bigquery.SchemaField('email', 'STRING'),
-                bigquery.SchemaField('gender', 'STRING'),
-                bigquery.SchemaField('ip_address', 'STRING')
+                bigquery.SchemaField('source', 'STRING'),
+                bigquery.SchemaField('Commodity_Description', 'STRING'),
+                bigquery.SchemaField('Country_Name', 'STRING'),
+                bigquery.SchemaField('Market_Year', 'INTEGER'),
+                bigquery.SchemaField('Attribute_Description', 'STRING'),
+                bigquery.SchemaField('Unit_Description', 'STRING'),
+                bigquery.SchemaField('Parameters', 'STRING'),
+                bigquery.SchemaField('Value', 'FLOAT')
                 ]
         job_config.skip_leading_rows = 1
         job_config.source_format = bigquery.SourceFormat.CSV
