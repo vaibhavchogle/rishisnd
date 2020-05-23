@@ -1,0 +1,251 @@
+Source,Commodity_Description,Country_Name,Market_Year,Attribute_Description,Unit_Description,Parameters,Value
+USDA,Corn,Argentina,2015,Area Harvested,(MHA),Area Harvested (MHA),3.7
+USDA,Corn,Argentina,2015,Beginning Stocks,(MMT),Beginning Stocks (MMT),2.898
+USDA,Corn,Argentina,2015,Domestic Consumption,(MMT),Domestic Consumption (MMT),9.3
+USDA,Corn,Argentina,2015,Ending Stocks,(MMT),Ending Stocks (MMT),1.448
+USDA,Corn,Argentina,2015,Exports,(MMT),Exports (MMT),21.653
+USDA,Corn,Argentina,2015,Feed Dom. Consumption,(MMT),Feed Dom. Consumption (MMT),6
+USDA,Corn,Argentina,2015,FSI Consumption,(MMT),FSI Consumption (MMT),3.3
+USDA,Corn,Argentina,2015,Imports,(MMT),Imports (MMT),0.003
+USDA,Corn,Argentina,2015,Production,(MMT),Production (MMT),29.5
+USDA,Corn,Argentina,2015,Total Distribution,(MMT),Total Distribution (MMT),32.401
+USDA,Corn,Argentina,2015,Total Supply,(MMT),Total Supply (MMT),32.401
+USDA,Corn,Argentina,2015,Yield,(MMT/MHA),Yield (MMT/MHA),7.97
+USDA,Corn,Argentina,2016,Area Harvested,(MHA),Area Harvested (MHA),4.9
+USDA,Corn,Argentina,2016,Beginning Stocks,(MMT),Beginning Stocks (MMT),1.448
+USDA,Corn,Argentina,2016,Domestic Consumption,(MMT),Domestic Consumption (MMT),11.2
+USDA,Corn,Argentina,2016,Ending Stocks,(MMT),Ending Stocks (MMT),5.273
+USDA,Corn,Argentina,2016,Exports,(MMT),Exports (MMT),25.986
+USDA,Corn,Argentina,2016,Feed Dom. Consumption,(MMT),Feed Dom. Consumption (MMT),7.5
+USDA,Corn,Argentina,2016,FSI Consumption,(MMT),FSI Consumption (MMT),3.7
+USDA,Corn,Argentina,2016,Imports,(MMT),Imports (MMT),0.011
+USDA,Corn,Argentina,2016,Production,(MMT),Production (MMT),41
+USDA,Corn,Argentina,2016,Total Distribution,(MMT),Total Distribution (MMT),42.459
+USDA,Corn,Argentina,2016,Total Supply,(MMT),Total Supply (MMT),42.459
+USDA,Corn,Argentina,2016,Yield,(MMT/MHA),Yield (MMT/MHA),8.37
+USDA,Corn,Argentina,2017,Area Harvested,(MHA),Area Harvested (MHA),5.2
+USDA,Corn,Argentina,2017,Beginning Stocks,(MMT),Beginning Stocks (MMT),5.273
+USDA,Corn,Argentina,2017,Domestic Consumption,(MMT),Domestic Consumption (MMT),12.4
+USDA,Corn,Argentina,2017,Ending Stocks,(MMT),Ending Stocks (MMT),2.407
+USDA,Corn,Argentina,2017,Exports,(MMT),Exports (MMT),22.473
+USDA,Corn,Argentina,2017,Feed Dom. Consumption,(MMT),Feed Dom. Consumption (MMT),8.5
+USDA,Corn,Argentina,2017,FSI Consumption,(MMT),FSI Consumption (MMT),3.9
+USDA,Corn,Argentina,2017,Imports,(MMT),Imports (MMT),0.007
+USDA,Corn,Argentina,2017,Production,(MMT),Production (MMT),32
+USDA,Corn,Argentina,2017,Total Distribution,(MMT),Total Distribution (MMT),37.28
+USDA,Corn,Argentina,2017,Total Supply,(MMT),Total Supply (MMT),37.28
+USDA,Corn,Argentina,2017,Yield,(MMT/MHA),Yield (MMT/MHA),6.15
+USDA,Corn,Argentina,2018,Area Harvested,(MHA),Area Harvested (MHA),6.1
+USDA,Corn,Argentina,2018,Beginning Stocks,(MMT),Beginning Stocks (MMT),2.407
+USDA,Corn,Argentina,2018,Domestic Consumption,(MMT),Domestic Consumption (MMT),13.8
+USDA,Corn,Argentina,2018,Ending Stocks,(MMT),Ending Stocks (MMT),3.612
+USDA,Corn,Argentina,2018,Exports,(MMT),Exports (MMT),36
+USDA,Corn,Argentina,2018,Feed Dom. Consumption,(MMT),Feed Dom. Consumption (MMT),9.7
+USDA,Corn,Argentina,2018,FSI Consumption,(MMT),FSI Consumption (MMT),4.1
+USDA,Corn,Argentina,2018,Imports,(MMT),Imports (MMT),0.005
+USDA,Corn,Argentina,2018,Production,(MMT),Production (MMT),51
+USDA,Corn,Argentina,2018,Total Distribution,(MMT),Total Distribution (MMT),53.412
+USDA,Corn,Argentina,2018,Total Supply,(MMT),Total Supply (MMT),53.412
+USDA,Corn,Argentina,2018,Yield,(MMT/MHA),Yield (MMT/MHA),8.36
+USDA,Corn,Argentina,2019,Area Harvested,(MHA),Area Harvested (MHA),6.1
+USDA,Corn,Argentina,2019,Beginning Stocks,(MMT),Beginning Stocks (MMT),3.612
+USDA,Corn,Argentina,2019,Domestic Consumption,(MMT),Domestic Consumption (MMT),15
+USDA,Corn,Argentina,2019,Ending Stocks,(MMT),Ending Stocks (MMT),5.117
+USDA,Corn,Argentina,2019,Exports,(MMT),Exports (MMT),33.5
+USDA,Corn,Argentina,2019,Feed Dom. Consumption,(MMT),Feed Dom. Consumption (MMT),10.3
+USDA,Corn,Argentina,2019,FSI Consumption,(MMT),FSI Consumption (MMT),4.7
+USDA,Corn,Argentina,2019,Imports,(MMT),Imports (MMT),0.005
+USDA,Corn,Argentina,2019,Production,(MMT),Production (MMT),50
+USDA,Corn,Argentina,2019,Total Distribution,(MMT),Total Distribution (MMT),53.617
+USDA,Corn,Argentina,2019,Total Supply,(MMT),Total Supply (MMT),53.617
+USDA,Corn,Argentina,2019,Yield,(MMT/MHA),Yield (MMT/MHA),8.2
+USDA,Soybean,Argentina,2015,Area Harvested,(MHA),Area Harvested (MHA),19.35
+USDA,Soybean,Argentina,2015,Area Harvested,(MHA),Area Harvested (MHA),19.35
+USDA,Soybean,Argentina,2015,Beginning Stocks,(MMT),Beginning Stocks (MMT),27.069
+USDA,Soybean,Argentina,2015,Beginning Stocks,(MMT),Beginning Stocks (MMT),6.181
+USDA,Soybean,Argentina,2015,Crush,(MMT),Crush (MMT),43.267
+USDA,Soybean,Argentina,2015,Crush,(MMT),Crush (MMT),43.042
+USDA,Soybean,Argentina,2015,Domestic Consumption,(MMT),Domestic Consumption (MMT),49.467
+USDA,Soybean,Argentina,2015,Domestic Consumption,(MMT),Domestic Consumption (MMT),49.242
+USDA,Soybean,Argentina,2015,Ending Stocks,(MMT),Ending Stocks (MMT),27.156
+USDA,Soybean,Argentina,2015,Ending Stocks,(MMT),Ending Stocks (MMT),7.997
+USDA,Soybean,Argentina,2015,Exports,(MMT),Exports (MMT),9.922
+USDA,Soybean,Argentina,2015,Exports,(MMT),Exports (MMT),9.046
+USDA,Soybean,Argentina,2015,Feed Waste Dom. Cons.,(MMT),Feed Waste Dom. Cons. (MMT),6.2
+USDA,Soybean,Argentina,2015,Feed Waste Dom. Cons.,(MMT),Feed Waste Dom. Cons. (MMT),6.2
+USDA,Soybean,Argentina,2015,Food Use Dom. Cons.,(MMT),Food Use Dom. Cons. (MMT),0
+USDA,Soybean,Argentina,2015,Food Use Dom. Cons.,(MMT),Food Use Dom. Cons. (MMT),0
+USDA,Soybean,Argentina,2015,Imports,(MMT),Imports (MMT),0.676
+USDA,Soybean,Argentina,2015,Imports,(MMT),Imports (MMT),1.304
+USDA,Soybean,Argentina,2015,Production,(MMT),Production (MMT),58.8
+USDA,Soybean,Argentina,2015,Production,(MMT),Production (MMT),58.8
+USDA,Soybean,Argentina,2015,Total Distribution,(MMT),Total Distribution (MMT),86.545
+USDA,Soybean,Argentina,2015,Total Distribution,(MMT),Total Distribution (MMT),66.285
+USDA,Soybean,Argentina,2015,Total Supply,(MMT),Total Supply (MMT),86.545
+USDA,Soybean,Argentina,2015,Total Supply,(MMT),Total Supply (MMT),66.285
+USDA,Soybean,Argentina,2015,Yield,(MMT/MHA),Yield (MMT/MHA),3.04
+USDA,Soybean,Argentina,2015,Yield,(MMT/MHA),Yield (MMT/MHA),3.04
+USDA,Soybean,Argentina,2016,Area Harvested,(MHA),Area Harvested (MHA),17.335
+USDA,Soybean,Argentina,2016,Area Harvested,(MHA),Area Harvested (MHA),17.335
+USDA,Soybean,Argentina,2016,Beginning Stocks,(MMT),Beginning Stocks (MMT),27.156
+USDA,Soybean,Argentina,2016,Beginning Stocks,(MMT),Beginning Stocks (MMT),7.997
+USDA,Soybean,Argentina,2016,Crush,(MMT),Crush (MMT),43.309
+USDA,Soybean,Argentina,2016,Crush,(MMT),Crush (MMT),40.94
+USDA,Soybean,Argentina,2016,Domestic Consumption,(MMT),Domestic Consumption (MMT),49.809
+USDA,Soybean,Argentina,2016,Domestic Consumption,(MMT),Domestic Consumption (MMT),47.44
+USDA,Soybean,Argentina,2016,Ending Stocks,(MMT),Ending Stocks (MMT),26.996
+USDA,Soybean,Argentina,2016,Ending Stocks,(MMT),Ending Stocks (MMT),10.941
+USDA,Soybean,Argentina,2016,Exports,(MMT),Exports (MMT),7.025
+USDA,Soybean,Argentina,2016,Exports,(MMT),Exports (MMT),7.247
+USDA,Soybean,Argentina,2016,Feed Waste Dom. Cons.,(MMT),Feed Waste Dom. Cons. (MMT),6.5
+USDA,Soybean,Argentina,2016,Feed Waste Dom. Cons.,(MMT),Feed Waste Dom. Cons. (MMT),6.5
+USDA,Soybean,Argentina,2016,Food Use Dom. Cons.,(MMT),Food Use Dom. Cons. (MMT),0
+USDA,Soybean,Argentina,2016,Food Use Dom. Cons.,(MMT),Food Use Dom. Cons. (MMT),0
+USDA,Soybean,Argentina,2016,Imports,(MMT),Imports (MMT),1.674
+USDA,Soybean,Argentina,2016,Imports,(MMT),Imports (MMT),2.631
+USDA,Soybean,Argentina,2016,Production,(MMT),Production (MMT),55
+USDA,Soybean,Argentina,2016,Production,(MMT),Production (MMT),55
+USDA,Soybean,Argentina,2016,Total Distribution,(MMT),Total Distribution (MMT),83.83
+USDA,Soybean,Argentina,2016,Total Distribution,(MMT),Total Distribution (MMT),65.628
+USDA,Soybean,Argentina,2016,Total Supply,(MMT),Total Supply (MMT),83.83
+USDA,Soybean,Argentina,2016,Total Supply,(MMT),Total Supply (MMT),65.628
+USDA,Soybean,Argentina,2016,Yield,(MMT/MHA),Yield (MMT/MHA),3.17
+USDA,Soybean,Argentina,2016,Yield,(MMT/MHA),Yield (MMT/MHA),3.17
+USDA,Soybean,Argentina,2017,Area Harvested,(MHA),Area Harvested (MHA),16.3
+USDA,Soybean,Argentina,2017,Area Harvested,(MHA),Area Harvested (MHA),16.3
+USDA,Soybean,Argentina,2017,Beginning Stocks,(MMT),Beginning Stocks (MMT),26.996
+USDA,Soybean,Argentina,2017,Beginning Stocks,(MMT),Beginning Stocks (MMT),10.941
+USDA,Soybean,Argentina,2017,Crush,(MMT),Crush (MMT),36.933
+USDA,Soybean,Argentina,2017,Crush,(MMT),Crush (MMT),36.359
+USDA,Soybean,Argentina,2017,Domestic Consumption,(MMT),Domestic Consumption (MMT),43.633
+USDA,Soybean,Argentina,2017,Domestic Consumption,(MMT),Domestic Consumption (MMT),43.056
+USDA,Soybean,Argentina,2017,Ending Stocks,(MMT),Ending Stocks (MMT),23.734
+USDA,Soybean,Argentina,2017,Ending Stocks,(MMT),Ending Stocks (MMT),9.1
+USDA,Soybean,Argentina,2017,Exports,(MMT),Exports (MMT),2.132
+USDA,Soybean,Argentina,2017,Exports,(MMT),Exports (MMT),3.841
+USDA,Soybean,Argentina,2017,Feed Waste Dom. Cons.,(MMT),Feed Waste Dom. Cons. (MMT),6.7
+USDA,Soybean,Argentina,2017,Feed Waste Dom. Cons.,(MMT),Feed Waste Dom. Cons. (MMT),6.697
+USDA,Soybean,Argentina,2017,Food Use Dom. Cons.,(MMT),Food Use Dom. Cons. (MMT),0
+USDA,Soybean,Argentina,2017,Food Use Dom. Cons.,(MMT),Food Use Dom. Cons. (MMT),0
+USDA,Soybean,Argentina,2017,Imports,(MMT),Imports (MMT),4.703
+USDA,Soybean,Argentina,2017,Imports,(MMT),Imports (MMT),7.256
+USDA,Soybean,Argentina,2017,Production,(MMT),Production (MMT),37.8
+USDA,Soybean,Argentina,2017,Production,(MMT),Production (MMT),37.8
+USDA,Soybean,Argentina,2017,Total Distribution,(MMT),Total Distribution (MMT),69.499
+USDA,Soybean,Argentina,2017,Total Distribution,(MMT),Total Distribution (MMT),55.997
+USDA,Soybean,Argentina,2017,Total Supply,(MMT),Total Supply (MMT),69.499
+USDA,Soybean,Argentina,2017,Total Supply,(MMT),Total Supply (MMT),55.997
+USDA,Soybean,Argentina,2017,Yield,(MMT/MHA),Yield (MMT/MHA),2.32
+USDA,Soybean,Argentina,2017,Yield,(MMT/MHA),Yield (MMT/MHA),2.32
+USDA,Soybean,Argentina,2018,Area Harvested,(MHA),Area Harvested (MHA),16.6
+USDA,Soybean,Argentina,2018,Area Harvested,(MHA),Area Harvested (MHA),16.6
+USDA,Soybean,Argentina,2018,Beginning Stocks,(MMT),Beginning Stocks (MMT),23.734
+USDA,Soybean,Argentina,2018,Beginning Stocks,(MMT),Beginning Stocks (MMT),9.1
+USDA,Soybean,Argentina,2018,Crush,(MMT),Crush (MMT),40.567
+USDA,Soybean,Argentina,2018,Crush,(MMT),Crush (MMT),41.7
+USDA,Soybean,Argentina,2018,Domestic Consumption,(MMT),Domestic Consumption (MMT),47.448
+USDA,Soybean,Argentina,2018,Domestic Consumption,(MMT),Domestic Consumption (MMT),48.54
+USDA,Soybean,Argentina,2018,Ending Stocks,(MMT),Ending Stocks (MMT),28.89
+USDA,Soybean,Argentina,2018,Ending Stocks,(MMT),Ending Stocks (MMT),9.4
+USDA,Soybean,Argentina,2018,Exports,(MMT),Exports (MMT),9.104
+USDA,Soybean,Argentina,2018,Exports,(MMT),Exports (MMT),10.31
+USDA,Soybean,Argentina,2018,Feed Waste Dom. Cons.,(MMT),Feed Waste Dom. Cons. (MMT),6.881
+USDA,Soybean,Argentina,2018,Feed Waste Dom. Cons.,(MMT),Feed Waste Dom. Cons. (MMT),6.84
+USDA,Soybean,Argentina,2018,Food Use Dom. Cons.,(MMT),Food Use Dom. Cons. (MMT),0
+USDA,Soybean,Argentina,2018,Food Use Dom. Cons.,(MMT),Food Use Dom. Cons. (MMT),0
+USDA,Soybean,Argentina,2018,Imports,(MMT),Imports (MMT),6.408
+USDA,Soybean,Argentina,2018,Imports,(MMT),Imports (MMT),3.85
+USDA,Soybean,Argentina,2018,Production,(MMT),Production (MMT),55.3
+USDA,Soybean,Argentina,2018,Production,(MMT),Production (MMT),55.3
+USDA,Soybean,Argentina,2018,Total Distribution,(MMT),Total Distribution (MMT),85.442
+USDA,Soybean,Argentina,2018,Total Distribution,(MMT),Total Distribution (MMT),68.25
+USDA,Soybean,Argentina,2018,Total Supply,(MMT),Total Supply (MMT),85.442
+USDA,Soybean,Argentina,2018,Total Supply,(MMT),Total Supply (MMT),68.25
+USDA,Soybean,Argentina,2018,Yield,(MMT/MHA),Yield (MMT/MHA),3.33
+USDA,Soybean,Argentina,2018,Yield,(MMT/MHA),Yield (MMT/MHA),3.33
+USDA,Soybean,Argentina,2019,Area Harvested,(MHA),Area Harvested (MHA),17.5
+USDA,Soybean,Argentina,2019,Area Harvested,(MHA),Area Harvested (MHA),17.5
+USDA,Soybean,Argentina,2019,Beginning Stocks,(MMT),Beginning Stocks (MMT),28.89
+USDA,Soybean,Argentina,2019,Beginning Stocks,(MMT),Beginning Stocks (MMT),9.4
+USDA,Soybean,Argentina,2019,Crush,(MMT),Crush (MMT),44.6
+USDA,Soybean,Argentina,2019,Crush,(MMT),Crush (MMT),44.6
+USDA,Soybean,Argentina,2019,Domestic Consumption,(MMT),Domestic Consumption (MMT),51.7
+USDA,Soybean,Argentina,2019,Domestic Consumption,(MMT),Domestic Consumption (MMT),51.75
+USDA,Soybean,Argentina,2019,Ending Stocks,(MMT),Ending Stocks (MMT),25.89
+USDA,Soybean,Argentina,2019,Ending Stocks,(MMT),Ending Stocks (MMT),6.55
+USDA,Soybean,Argentina,2019,Exports,(MMT),Exports (MMT),8.2
+USDA,Soybean,Argentina,2019,Exports,(MMT),Exports (MMT),8
+USDA,Soybean,Argentina,2019,Feed Waste Dom. Cons.,(MMT),Feed Waste Dom. Cons. (MMT),7.1
+USDA,Soybean,Argentina,2019,Feed Waste Dom. Cons.,(MMT),Feed Waste Dom. Cons. (MMT),7.15
+USDA,Soybean,Argentina,2019,Food Use Dom. Cons.,(MMT),Food Use Dom. Cons. (MMT),0
+USDA,Soybean,Argentina,2019,Food Use Dom. Cons.,(MMT),Food Use Dom. Cons. (MMT),0
+USDA,Soybean,Argentina,2019,Imports,(MMT),Imports (MMT),3.9
+USDA,Soybean,Argentina,2019,Imports,(MMT),Imports (MMT),3.9
+USDA,Soybean,Argentina,2019,Production,(MMT),Production (MMT),53
+USDA,Soybean,Argentina,2019,Production,(MMT),Production (MMT),53
+USDA,Soybean,Argentina,2019,Total Distribution,(MMT),Total Distribution (MMT),85.79
+USDA,Soybean,Argentina,2019,Total Distribution,(MMT),Total Distribution (MMT),66.3
+USDA,Soybean,Argentina,2019,Total Supply,(MMT),Total Supply (MMT),85.79
+USDA,Soybean,Argentina,2019,Total Supply,(MMT),Total Supply (MMT),66.3
+USDA,Soybean,Argentina,2019,Yield,(MMT/MHA),Yield (MMT/MHA),3.03
+USDA,Soybean,Argentina,2019,Yield,(MMT/MHA),Yield (MMT/MHA),3.03
+USDA,Wheat,Argentina,2015,Area Harvested,(MHA),Area Harvested (MHA),3.945
+USDA,Wheat,Argentina,2015,Beginning Stocks,(MMT),Beginning Stocks (MMT),4.804
+USDA,Wheat,Argentina,2015,Domestic Consumption,(MMT),Domestic Consumption (MMT),5.7
+USDA,Wheat,Argentina,2015,Ending Stocks,(MMT),Ending Stocks (MMT),0.816
+USDA,Wheat,Argentina,2015,Exports,(MMT),Exports (MMT),9.6
+USDA,Wheat,Argentina,2015,Feed Dom. Consumption,(MMT),Feed Dom. Consumption (MMT),0.2
+USDA,Wheat,Argentina,2015,FSI Consumption,(MMT),FSI Consumption (MMT),5.5
+USDA,Wheat,Argentina,2015,Imports,(MMT),Imports (MMT),0.012
+USDA,Wheat,Argentina,2015,Production,(MMT),Production (MMT),11.3
+USDA,Wheat,Argentina,2015,Total Distribution,(MMT),Total Distribution (MMT),16.116
+USDA,Wheat,Argentina,2015,Total Supply,(MMT),Total Supply (MMT),16.116
+USDA,Wheat,Argentina,2015,Yield,(MMT/MHA),Yield (MMT/MHA),2.86
+USDA,Wheat,Argentina,2016,Area Harvested,(MHA),Area Harvested (MHA),5.56
+USDA,Wheat,Argentina,2016,Beginning Stocks,(MMT),Beginning Stocks (MMT),0.816
+USDA,Wheat,Argentina,2016,Domestic Consumption,(MMT),Domestic Consumption (MMT),5.15
+USDA,Wheat,Argentina,2016,Ending Stocks,(MMT),Ending Stocks (MMT),0.245
+USDA,Wheat,Argentina,2016,Exports,(MMT),Exports (MMT),13.825
+USDA,Wheat,Argentina,2016,Feed Dom. Consumption,(MMT),Feed Dom. Consumption (MMT),0.05
+USDA,Wheat,Argentina,2016,FSI Consumption,(MMT),FSI Consumption (MMT),5.1
+USDA,Wheat,Argentina,2016,Imports,(MMT),Imports (MMT),0.004
+USDA,Wheat,Argentina,2016,Production,(MMT),Production (MMT),18.4
+USDA,Wheat,Argentina,2016,Total Distribution,(MMT),Total Distribution (MMT),19.22
+USDA,Wheat,Argentina,2016,Total Supply,(MMT),Total Supply (MMT),19.22
+USDA,Wheat,Argentina,2016,Yield,(MMT/MHA),Yield (MMT/MHA),3.31
+USDA,Wheat,Argentina,2017,Area Harvested,(MHA),Area Harvested (MHA),5.8
+USDA,Wheat,Argentina,2017,Beginning Stocks,(MMT),Beginning Stocks (MMT),0.245
+USDA,Wheat,Argentina,2017,Domestic Consumption,(MMT),Domestic Consumption (MMT),5.55
+USDA,Wheat,Argentina,2017,Ending Stocks,(MMT),Ending Stocks (MMT),0.47
+USDA,Wheat,Argentina,2017,Exports,(MMT),Exports (MMT),12.73
+USDA,Wheat,Argentina,2017,Feed Dom. Consumption,(MMT),Feed Dom. Consumption (MMT),0.05
+USDA,Wheat,Argentina,2017,FSI Consumption,(MMT),FSI Consumption (MMT),5.5
+USDA,Wheat,Argentina,2017,Imports,(MMT),Imports (MMT),0.005
+USDA,Wheat,Argentina,2017,Production,(MMT),Production (MMT),18.5
+USDA,Wheat,Argentina,2017,Total Distribution,(MMT),Total Distribution (MMT),18.75
+USDA,Wheat,Argentina,2017,Total Supply,(MMT),Total Supply (MMT),18.75
+USDA,Wheat,Argentina,2017,Yield,(MMT/MHA),Yield (MMT/MHA),3.19
+USDA,Wheat,Argentina,2018,Area Harvested,(MHA),Area Harvested (MHA),6.05
+USDA,Wheat,Argentina,2018,Beginning Stocks,(MMT),Beginning Stocks (MMT),0.47
+USDA,Wheat,Argentina,2018,Domestic Consumption,(MMT),Domestic Consumption (MMT),6.05
+USDA,Wheat,Argentina,2018,Ending Stocks,(MMT),Ending Stocks (MMT),1.737
+USDA,Wheat,Argentina,2018,Exports,(MMT),Exports (MMT),12.188
+USDA,Wheat,Argentina,2018,Feed Dom. Consumption,(MMT),Feed Dom. Consumption (MMT),0.05
+USDA,Wheat,Argentina,2018,FSI Consumption,(MMT),FSI Consumption (MMT),6
+USDA,Wheat,Argentina,2018,Imports,(MMT),Imports (MMT),0.005
+USDA,Wheat,Argentina,2018,Production,(MMT),Production (MMT),19.5
+USDA,Wheat,Argentina,2018,Total Distribution,(MMT),Total Distribution (MMT),19.975
+USDA,Wheat,Argentina,2018,Total Supply,(MMT),Total Supply (MMT),19.975
+USDA,Wheat,Argentina,2018,Yield,(MMT/MHA),Yield (MMT/MHA),3.22
+USDA,Wheat,Argentina,2019,Area Harvested,(MHA),Area Harvested (MHA),6.37
+USDA,Wheat,Argentina,2019,Beginning Stocks,(MMT),Beginning Stocks (MMT),1.737
+USDA,Wheat,Argentina,2019,Domestic Consumption,(MMT),Domestic Consumption (MMT),6.15
+USDA,Wheat,Argentina,2019,Ending Stocks,(MMT),Ending Stocks (MMT),1.597
+USDA,Wheat,Argentina,2019,Exports,(MMT),Exports (MMT),13
+USDA,Wheat,Argentina,2019,Feed Dom. Consumption,(MMT),Feed Dom. Consumption (MMT),0.05
+USDA,Wheat,Argentina,2019,FSI Consumption,(MMT),FSI Consumption (MMT),6.1
+USDA,Wheat,Argentina,2019,Imports,(MMT),Imports (MMT),0.01
+USDA,Wheat,Argentina,2019,Production,(MMT),Production (MMT),19
+USDA,Wheat,Argentina,2019,Total Distribution,(MMT),Total Distribution (MMT),20.747
+USDA,Wheat,Argentina,2019,Total Supply,(MMT),Total Supply (MMT),20.747
+USDA,Wheat,Argentina,2019,Yield,(MMT/MHA),Yield (MMT/MHA),2.98
