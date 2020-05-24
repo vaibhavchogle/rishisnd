@@ -6,6 +6,7 @@ def csv_loader(data, context):
         dataset_id = os.environ['DATASET']
         dataset_ref = client.dataset(dataset_id)
         job_config = bigquery.LoadJobConfig()
+        job_config.write_disposition = bigquery.WriteDisposition.WRITE_TRUNCATE
         job_config.schema = [
                 bigquery.SchemaField('source', 'STRING'),
                 bigquery.SchemaField('Commodity_Description', 'STRING'),
